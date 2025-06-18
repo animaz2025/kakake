@@ -87,7 +87,7 @@ client.once('ready', async () => {
     const channel = guild.channels.cache.get(uptimeChannelId);
     if (!channel) return;
     channel.send('Bot uptime kontrolü: Aktif ve çalışıyor! 🟢').catch(console.error);
-  }, 600000); // 10 dakika
+  }, 10000); // 10 dakika
 });
 
 // Slash Komut İşleme
