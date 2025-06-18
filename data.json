@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "1343171004595306527": {
+      "webhookURL": "https://discord.com/api/webhooks/1384863268509585520/0zdSj2NDl91EFWZgWulWhksSxXJ4VrTa386T-Hww-9pDtQUaU2J5Y1bwkgSRYZHU43Xh",
+      "users": {
+        "1165989961015767061": {
+          "count": 2,
+          "lastReset": 1750247745125
+        }
+      }
+    }
+  }
+}
